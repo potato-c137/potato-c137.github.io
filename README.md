@@ -1,2 +1,4 @@
-# punixcorn.github.io
-gitpages
+# HEy 
+
+this is punixcorn 
+say Hi
